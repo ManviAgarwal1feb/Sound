@@ -1,0 +1,32 @@
+.header_div{
+    background-color: rgb(50, 99, 205);
+    color: #ffffff;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Sigmar One', cursive;
+    font-family: 'Yellowtail', cursive;
+    font-family: 'Yeseva One', cursive;
+}
+
+.copy_right_footer{
+    background-color:gold ;
+    color: black;
+    font-family: 'Sigmar One', cursive;
+    bottom:0;
+    position: fixed;
+    font-size: 20px;
+    width: 100%;
+}
+
+.main_div{
+    background-color: rgb(168, 255, 172);
+    padding-top: 100px;
+    color: rgb(12, 12, 12);
+}
+
+#result_label{
+font-weight: bold;
+}
+
+#accuracy_result{
+    font-weight: bold;
+}
